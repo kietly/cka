@@ -27,10 +27,10 @@ EOF
 
 cat >> /etc/hosts << EOF
 {
-  192.168.4.110 control.example.com control
-  192.168.4.111 worker1.example.com worker1
-  192.168.4.112 worker2.example.com worker2
-  192.168.4.113 worker3.example.com worker3
+  192.168.1.207 control.example.com control
+  192.168.1.91 worker1.example.com worker1
+  192.168.1.92 worker2.example.com worker2
+  192.168.1.93 worker3.example.com worker3
 }
 EOF
 
